@@ -1,0 +1,9 @@
+body{background-color: lightblue;}
+h1{color: #0A30A8;font-size: 42px;font-family:"Courier New", monospace;text-align: center;text-decoration: underline;}
+p{font-family: "Poppins", sans-serif;font-size: 20px;text-align: justify;}
+.rosa {color: #A60A3B;font-family:"Courier New", monospace;font-size: 29px; text-decoration: underline;}
+ul{font-family: "Poppins", sans-serif}
+.violeta{color: pink;font-family:"Courier New", monospace;font-size: 29px;text-decoration: underline;}
+ol{font-family: "Poppins", sans-serif;}
+.verde{color: green;font-family:"Courier New", monospace;font-size: 23px;}
+.amarillo{color: yellow;font-family:"Courier New", monospace;font-size: 23px;}
