@@ -45,3 +45,44 @@ img {width: 500px;}
   z-index: 1000;
   transition: 0.3s ease;
 }
+header{
+ display: flex;
+ justify-content: center;
+ justify-content: space-around;
+align-items: center;
+flex-wrap: wrap;
+height: 30vh;
+}
+.redes{
+   width: 50px;}
+.rs {
+   display: flex; height: 40%;}
+.logo{
+   height: 80%;}
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  height: 100vh;
+}
+.red {
+  width: 20%;
+}
+.rss {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  height: 30%;
+}
+.mapa {
+max-width: 350px;
+text-align: center;
+
+}
+.nombre {
+  font-size: 43px
+ display: flex;
+  order: 1;
+}
