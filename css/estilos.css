@@ -9,7 +9,7 @@ h1{
   text-decoration: underline;}
 p{
   ;font-family:"Courier New", monospace;
-  font-size: 18px;font-size: 20px;
+  ;font-size: 20px;
   text-align: justify;}
 .rosa {
   color: white;
@@ -65,7 +65,7 @@ footer {
   align-items: center;
   flex-wrap: wrap;
   box-sizing: border-box;
-  height: 100vh;
+  height: auto;
 }
 .red {
   width: 20%;
@@ -82,7 +82,19 @@ text-align: center;
 
 }
 .nombre {
-  font-size: 43px
- display: flex;
+  font-size: 23px;
+  display: flex;
   order: 1;
+}
+
+.sec {
+  display: flex;
+  justify-content: center;
+}
+.targetadeboostrap {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    gap: 20px;
+    flex-wrap: wrap;        
 }
