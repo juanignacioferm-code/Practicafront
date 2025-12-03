@@ -74,7 +74,8 @@ footer {
   display: flex;
   justify-content: center;
   font-weight: bold;
-  height: 30%;
+  height: 100px;
+  width: auto;
 }
 .mapa {
 max-width: 350px;
@@ -93,8 +94,9 @@ text-align: center;
 }
 .targetadeboostrap {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: flex-start;
     gap: 20px;
-    flex-wrap: wrap;        
+    flex-wrap: wrap;
+
 }
