@@ -100,3 +100,38 @@ text-align: center;
     flex-wrap: wrap;
 
 }
+
+.accesible {
+    background-color: #000 !important;
+    color: #fff !important;
+}
+
+.accesible header,
+.accesible footer,
+.accesible nav {
+    background-color: #111 !important;
+    color: #fff !important;
+}
+
+.accesible h1,
+.accesible h2,
+.accesible h3,
+.accesible p,
+.accesible a,
+.accesible button,
+.accesible li,
+.accesible span {
+    color: #fff !important;
+}
+
+.accesible img {
+    filter: brightness(0.8);
+}
+.accesible {
+    background-image: none !important;
+}
+
+.accesible * {
+    background-image: none !important;
+    border-color: #fff !important;
+}
